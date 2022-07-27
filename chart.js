@@ -18,7 +18,7 @@ function enchant(enchantCurVal) {
 }
 
 let numberScenarios = 100000;
-const maxEnchant = 60;
+const maxEnchant = 99;
 let curMaxEnchant = 21;
 let entries = [];
 let index = 0;
